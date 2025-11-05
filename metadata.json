@@ -1,0 +1,5 @@
+{
+  "name": "DC Circuit Analyzer",
+  "description": "A web application to define and analyze simple DC resistor circuits using Nodal Analysis. It calculates node voltages, branch currents, and provides thermal failure warnings for components, with AI-powered explanations.",
+  "requestFramePermissions": []
+}
