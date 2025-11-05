@@ -74,7 +74,7 @@ If `P > Rated Power`, a **failure warning** is displayed.
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/Saineeraj-Saravanan/DCCA-Web.git
+git clone https://github.com/Saineeraj-Saravanan/DCCA
 cd DCCA-Web
 ```
 
